@@ -5,10 +5,10 @@ YouTube (the world-famous video sharing website) maintains a list of the top tre
 
 ## Research Question:
 1. Which region got most views?
-2. Whhat are the average time for potential videos to get to trending in each region?
-3. Top 3 channels in each region measured by views and comments
-4. What top 3 categories were the most popular in each regions by views
-5. Throughout 2006 to 2018, which month produced most videos?
+2. What are the average time for potential videos to get to trending in each region?
+3. What are the top 3 channels in each region measured by views and comments?
+4. What top 3 categories were the most popular in each regions by views?
+5. Throughout 2006 to 2018, which month was published most videos by channels?
 
 ### Assessment report of original dataset:
 
@@ -39,13 +39,13 @@ YouTube (the world-famous video sharing website) maintains a list of the top tre
 
 #### Research Question 1: Which region got most views?
 
-- Great Britain got most views from 2006 to 2018. For numbers of views per person, Great Britain was still the first place, which was at least 5 times higher than the rest of the regions is this dataset.
+- Great Britain's average views is near 1.3m, which is almost 3 times as much as USA's views. And it would be interesting that if we divide the views by each population of region. For numbers of views per person, Great Britain was still the first place, which was at least 5 times higher than the rest of the regions is this dataset.
 
-#### Research Question 2: Whhat are the average time for potential videos to get to trending in each region?
+#### Research Question 2: What are the average time for potential videos to get to trending in each region?
 
 - Average time for potential videos to get to trending in USA and Great Britain is around 22-25 hours, which is nearly two times as much as the average time in Japan and Russia.
        
-#### Research Question 3: Top 3 channels in each region measured by views and comments
+#### Research Question 3: What are the top 3 channels in each region measured by views and comments?
 
 - In these 6 regions, Great Britain's top 3 channel got most views and comments, which are LuisFonsiVEVO, BeckyGVEVO, and DrakeVEVO. All of them are singers' channels, and LuisFonsiVEVO's number calculated by 80% weight of views and 20% weights of comment counts was almost 4 times as many as DrakeVEVO.
 
@@ -53,6 +53,6 @@ YouTube (the world-famous video sharing website) maintains a list of the top tre
 
 - Music is the popular category that is in top 3 category in each region. In Great Britain, music got average 2750 k views, which is over 2 times as many a the rest of two in the top 3. Besides, gaming is a special category that got the highest average views in India and USA, and which is even not in top 3 list in the rest regions in the dataset.
 
-#### Research Question 5: Throughout 2006 to 2018, which month produced most videos?
+#### Research Question 5: Throughout 2006 to 2018, which month was published most videos by channels?
 
 - Around 6 regions, people tended to published less video in June, and pubished most in January or December.
