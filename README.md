@@ -33,7 +33,7 @@ YouTube (the world-famous video sharing website) maintains a list of the top tre
 
 # Limitation and Conclusion:
 
-> Limitation 1 : Youtube videos has **long tail effect**, which means some videos was not be popular at first, but might be popular in years so that the rank of each popular videos listed above might changed now. For example, the video "The Poop In My Pants | Rick and Morty | Adult Swim" had only near 2 millions views in this dataset, but it has 7 millions views now in 2020.
+> Limitation 1 : Youtube videos has **long tail effect**, which means some videos was not be popular at first, but might be popular in years so that the rank of each popular videos listed in this analysis might changed now. For example, the video "The Poop In My Pants | Rick and Morty | Adult Swim" had only near 2 millions views in this dataset, but it has 7 millions views now in 2020.
 
 > Limitation 2 : There are some most important metrics of youtube like **Watch Time, unique views, and share counts**, but we don't have each of those information in the dataset so that based on the information given by the dataset to make decision about video creation will be some degree wrong.
 
@@ -55,7 +55,7 @@ YouTube (the world-famous video sharing website) maintains a list of the top tre
 
 #### Research Question 4: What top 3 categories were the most popular in each regions by views
 
-- Music is the popular category that is in top 3 category in each region. In Great Britain, music got average 2750 k views, which is over 2 times as many a the rest of two in the top 3. Besides, gaming is a special category that got the highest average views in India and USA, and which is even not in top 3 list in the rest regions in the dataset.
+- Music is the popular category that is in top 3 category in each region. In Great Britain, music got average 2750 k views, which is over 2 times as many a the rest of two in the top 3. Besides, gaming is a special category that got the highest average views in India and USA, but which is even not in top 3 list in the rest regions in the dataset.
 
 #### Research Question 5: Throughout 2006 to 2018, which month was published most videos by channels?
 
