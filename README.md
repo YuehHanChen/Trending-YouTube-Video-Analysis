@@ -16,7 +16,7 @@ YouTube (the world-famous video sharing website) maintains a list of the top tre
 
 ### Assessment report of original dataset:
 
-**general issues:**
+**general issues**
 
 **Quality issues**
 
