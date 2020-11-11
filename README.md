@@ -37,9 +37,7 @@ YouTube (the world-famous video sharing website) maintains a list of the top tre
 
 > Limitation 2 : There are some most important metrics of youtube like **Watch Time, unique views, and share counts**, but we don't have each of those information in the dataset so that based on the information given by the dataset to make decision about video creation will be some degree wrong.
 
-> Limitation 3 : Average time for potential videos to get to trending in each region is based on 95% of the data because the 5% of the data is extremely high, therefore if someone use this analysis to predict the time of their videos to get to trending, it would be 5% degree wrong.
-
-> Limitation 4 : The dataset missed the data from July to October, so the final analysis is only based on January to June, November and December.
+> Limitation 3 : The dataset missed the data from July to October, so the final analysis is only based on January to June, November and December.
 
 #### Research Question 1: Which region got most views?
 
